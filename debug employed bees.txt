@@ -1,380 +1,361 @@
 --------------------------------Distribution #0--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 13.4 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 4.466666666666667
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 0.4 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 0.4
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 10.5 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.5
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 8.366666666666667
-avgOfTotalAvgDistancesInDivisions: 2.788888888888889
-factorsProbabilities[2]: 0.5428051001821492, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 5.4 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.8
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 4.8 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 4.8
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 1.7 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.7
+minTotalDistancesBetweenDeliveriesInDivision: 1.7 , maxTotalDistancesBetweenDeliveriesInDivision: 5.4
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 8.299999999999999
+avgOfTotalAvgDistancesInDivisions: 2.766666666666666 , loadDistanceFactor: 3.7
+factorsProbabilities[2]: 0.9280155642023347, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #0 details:
-Fitness: 2.7
-  (division-courier-id: 1) Division #0:
-	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
-	Delivery #1:
-		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
-	Delivery #2:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-  (division-courier-id: 2) Division #1:
+Fitness: 7.634124756619494
+  (division-courier-id: 2) Division #0:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.08111378,34.77747419
-  (division-courier-id: 3) Division #2:
+		Latitude,Longitude: 32.08286466,34.77471939
+	Delivery #2:
+		isUrgent: 0
+		Latitude,Longitude: 32.06984232,34.77052658
+  (division-courier-id: 1) Division #1:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.08114372,34.77551156
 	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.08286466,34.77471939
-	Delivery #2:
-		isUrgent: 0
 		Latitude,Longitude: 32.0528274,34.75690968
-avgOfTotalAvgDistancesInDivisions = 2.788888888888889
+  (division-courier-id: 3) Division #2:
+	Delivery #0:
+		isUrgent: 0
+		Latitude,Longitude: 32.08111378,34.77747419
+	Delivery #1:
+		isUrgent: 0
+		Latitude,Longitude: 32.08726741,34.78059533
+avgOfTotalAvgDistancesInDivisions = 2.766666666666666
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #1--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 20.200000000000003 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.366666666666667
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 9.899999999999999 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.2999999999999994
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 6.666666666666666
-avgOfTotalAvgDistancesInDivisions: 2.222222222222222
-factorsProbabilities[2]: 0.6357012750455373, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 5.4 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.8
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 4.7 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 4.7
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 1.3 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.3
+minTotalDistancesBetweenDeliveriesInDivision: 1.3 , maxTotalDistancesBetweenDeliveriesInDivision: 5.4
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 7.8
+avgOfTotalAvgDistancesInDivisions: 2.6 , loadDistanceFactor: 4.1000000000000005
+factorsProbabilities[2]: 0.9202334630350194, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #1 details:
-Fitness: 2.15
-  (division-courier-id: 1) Division #0:
+Fitness: 7.7200680706038876
+  (division-courier-id: 2) Division #0:
 	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
-  (division-courier-id: 2) Division #1:
-	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.08111378,34.77747419
+		isUrgent: 1
+		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
 		isUrgent: 0
 		Latitude,Longitude: 32.08286466,34.77471939
 	Delivery #2:
 		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
-	Delivery #3:
+		Latitude,Longitude: 32.06984232,34.77052658
+  (division-courier-id: 1) Division #1:
+	Delivery #0:
+		isUrgent: 0
+		Latitude,Longitude: 32.08111378,34.77747419
+	Delivery #1:
 		isUrgent: 0
 		Latitude,Longitude: 32.0528274,34.75690968
   (division-courier-id: 3) Division #2:
 	Delivery #0:
 		isUrgent: 1
-		Latitude,Longitude: 32.07992542,34.77517877
-	Delivery #1:
-		isUrgent: 1
 		Latitude,Longitude: 32.08114372,34.77551156
-	Delivery #2:
+	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-avgOfTotalAvgDistancesInDivisions = 2.222222222222222
+		Latitude,Longitude: 32.08726741,34.78059533
+avgOfTotalAvgDistancesInDivisions = 2.6
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #2--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 5.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 5.0
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 17.2 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.72
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 6.72
-avgOfTotalAvgDistancesInDivisions: 2.2399999999999998
-factorsProbabilities[2]: 0.6327868852459017, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 0.4 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 0.4
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 21.7 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.6166666666666667
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
+minTotalDistancesBetweenDeliveriesInDivision: 0.0 , maxTotalDistancesBetweenDeliveriesInDivision: 21.7
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 4.016666666666667
+avgOfTotalAvgDistancesInDivisions: 1.3388888888888888 , loadDistanceFactor: 21.7
+factorsProbabilities[2]: 0.5778210116731518, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #2 details:
-Fitness: 1.95
-  (division-courier-id: 1) Division #0:
+Fitness: 6.948360250736343
+  (division-courier-id: 2) Division #0:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-  (division-courier-id: 2) Division #1:
-	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-  (division-courier-id: 3) Division #2:
+		Latitude,Longitude: 32.08111378,34.77747419
+  (division-courier-id: 1) Division #1:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.08114372,34.77551156
 	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.08111378,34.77747419
+		Latitude,Longitude: 32.06984232,34.77052658
 	Delivery #2:
 		isUrgent: 0
-		Latitude,Longitude: 32.08286466,34.77471939
+		Latitude,Longitude: 32.08726741,34.78059533
 	Delivery #3:
 		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
-	Delivery #4:
+		Latitude,Longitude: 32.0528274,34.75690968
+  (division-courier-id: 3) Division #2:
+	Delivery #0:
 		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
-avgOfTotalAvgDistancesInDivisions = 2.2399999999999998
+		Latitude,Longitude: 32.08286466,34.77471939
+avgOfTotalAvgDistancesInDivisions = 1.3388888888888888
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #3--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 0.4 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 0.4
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 7.2 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 2.4
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 10.6 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.533333333333333
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 6.333333333333333
-avgOfTotalAvgDistancesInDivisions: 2.111111111111111
-factorsProbabilities[2]: 0.6539162112932604, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 1.1 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.1
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 18.799999999999997 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.133333333333333
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
+minTotalDistancesBetweenDeliveriesInDivision: 0.0 , maxTotalDistancesBetweenDeliveriesInDivision: 18.799999999999997
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 4.2333333333333325
+avgOfTotalAvgDistancesInDivisions: 1.4111111111111108 , loadDistanceFactor: 18.799999999999997
+factorsProbabilities[2]: 0.6342412451361868, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #3 details:
-Fitness: 2.7
-  (division-courier-id: 1) Division #0:
+Fitness: 7.070262116881368
+  (division-courier-id: 2) Division #0:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.08111378,34.77747419
-  (division-courier-id: 2) Division #1:
-	Delivery #0:
-		isUrgent: 0
 		Latitude,Longitude: 32.08286466,34.77471939
-	Delivery #1:
-		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
-	Delivery #2:
-		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
-  (division-courier-id: 3) Division #2:
+  (division-courier-id: 1) Division #1:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.08114372,34.77551156
 	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
+		Latitude,Longitude: 32.08111378,34.77747419
 	Delivery #2:
 		isUrgent: 0
+		Latitude,Longitude: 32.08726741,34.78059533
+	Delivery #3:
+		isUrgent: 0
 		Latitude,Longitude: 32.0528274,34.75690968
-avgOfTotalAvgDistancesInDivisions = 2.111111111111111
+  (division-courier-id: 3) Division #2:
+	Delivery #0:
+		isUrgent: 0
+		Latitude,Longitude: 32.06984232,34.77052658
+avgOfTotalAvgDistancesInDivisions = 1.4111111111111108
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #4--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 0.2 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 0.2
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 4.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.3333333333333333
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 8.2 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 2.733333333333333
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 4.266666666666666
-avgOfTotalAvgDistancesInDivisions: 1.4222222222222218
-factorsProbabilities[2]: 0.766848816029144, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 21.9 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.65
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 1.1 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.1
+minTotalDistancesBetweenDeliveriesInDivision: 0.0 , maxTotalDistancesBetweenDeliveriesInDivision: 21.9
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 4.75
+avgOfTotalAvgDistancesInDivisions: 1.5833333333333333 , loadDistanceFactor: 21.9
+factorsProbabilities[2]: 0.5739299610894942, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #4 details:
-Fitness: 2.7
-  (division-courier-id: 1) Division #0:
+Fitness: 6.776395660005407
+  (division-courier-id: 2) Division #0:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.08114372,34.77551156
-	Delivery #1:
+  (division-courier-id: 1) Division #1:
+	Delivery #0:
 		isUrgent: 0
 		Latitude,Longitude: 32.08111378,34.77747419
-  (division-courier-id: 2) Division #1:
+	Delivery #1:
+		isUrgent: 0
+		Latitude,Longitude: 32.06984232,34.77052658
+	Delivery #2:
+		isUrgent: 0
+		Latitude,Longitude: 32.08726741,34.78059533
+	Delivery #3:
+		isUrgent: 0
+		Latitude,Longitude: 32.0528274,34.75690968
+  (division-courier-id: 3) Division #2:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
 		isUrgent: 0
 		Latitude,Longitude: 32.08286466,34.77471939
-	Delivery #2:
-		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
-  (division-courier-id: 3) Division #2:
-	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
-	Delivery #1:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-	Delivery #2:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-avgOfTotalAvgDistancesInDivisions = 1.4222222222222218
+avgOfTotalAvgDistancesInDivisions = 1.5833333333333333
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #5--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 2.3 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 2.3
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 2.7 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 0.9
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 13.2 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 4.3999999999999995
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 7.6
-avgOfTotalAvgDistancesInDivisions: 2.533333333333333
-factorsProbabilities[2]: 0.5846994535519126, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 4.7 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 4.7
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 4.6 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.5333333333333332
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 1.5 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.5
+minTotalDistancesBetweenDeliveriesInDivision: 1.5 , maxTotalDistancesBetweenDeliveriesInDivision: 4.7
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 7.733333333333333
+avgOfTotalAvgDistancesInDivisions: 2.577777777777778 , loadDistanceFactor: 3.2
+factorsProbabilities[2]: 0.9377431906614786, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #5 details:
-Fitness: 2.7
-  (division-courier-id: 1) Division #0:
+Fitness: 7.737169202481443
+  (division-courier-id: 2) Division #0:
+	Delivery #0:
+		isUrgent: 0
+		Latitude,Longitude: 32.08111378,34.77747419
+	Delivery #1:
+		isUrgent: 0
+		Latitude,Longitude: 32.0528274,34.75690968
+  (division-courier-id: 1) Division #1:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
-		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
-  (division-courier-id: 2) Division #1:
-	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.08114372,34.77551156
-	Delivery #1:
-		isUrgent: 0
-		Latitude,Longitude: 32.08111378,34.77747419
 	Delivery #2:
 		isUrgent: 0
-		Latitude,Longitude: 32.08286466,34.77471939
+		Latitude,Longitude: 32.06984232,34.77052658
   (division-courier-id: 3) Division #2:
 	Delivery #0:
 		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
+		Latitude,Longitude: 32.08286466,34.77471939
 	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-	Delivery #2:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-avgOfTotalAvgDistancesInDivisions = 2.533333333333333
+		Latitude,Longitude: 32.08726741,34.78059533
+avgOfTotalAvgDistancesInDivisions = 2.577777777777778
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #6--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 0.1 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 0.1
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 19.7 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.283333333333333
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 1.5 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.5
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 4.883333333333333
-avgOfTotalAvgDistancesInDivisions: 1.6277777777777775
-factorsProbabilities[2]: 0.7331511839708561, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 3.2 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.0666666666666667
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 10.8 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.6
+minTotalDistancesBetweenDeliveriesInDivision: 0.0 , maxTotalDistancesBetweenDeliveriesInDivision: 10.8
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 4.666666666666667
+avgOfTotalAvgDistancesInDivisions: 1.5555555555555556 , loadDistanceFactor: 10.8
+factorsProbabilities[2]: 0.7898832684824902, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #6 details:
-Fitness: 2.4
-  (division-courier-id: 1) Division #0:
+Fitness: 7.728184804146403
+  (division-courier-id: 2) Division #0:
+	Delivery #0:
+		isUrgent: 0
+		Latitude,Longitude: 32.06984232,34.77052658
+  (division-courier-id: 1) Division #1:
+	Delivery #0:
+		isUrgent: 1
+		Latitude,Longitude: 32.08114372,34.77551156
+	Delivery #1:
+		isUrgent: 0
+		Latitude,Longitude: 32.08111378,34.77747419
+	Delivery #2:
+		isUrgent: 0
+		Latitude,Longitude: 32.08726741,34.78059533
+  (division-courier-id: 3) Division #2:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
-		isUrgent: 1
-		Latitude,Longitude: 32.08114372,34.77551156
-  (division-courier-id: 2) Division #1:
-	Delivery #0:
 		isUrgent: 0
-		Latitude,Longitude: 32.08111378,34.77747419
-	Delivery #1:
-		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
+		Latitude,Longitude: 32.08286466,34.77471939
 	Delivery #2:
 		isUrgent: 0
 		Latitude,Longitude: 32.0528274,34.75690968
-	Delivery #3:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-  (division-courier-id: 3) Division #2:
-	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.08286466,34.77471939
-	Delivery #1:
-		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
-avgOfTotalAvgDistancesInDivisions = 1.6277777777777775
+avgOfTotalAvgDistancesInDivisions = 1.5555555555555556
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #7--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 9.899999999999999 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.2999999999999994
 division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 18.6 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.1
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 6.3999999999999995
-avgOfTotalAvgDistancesInDivisions: 2.1333333333333333
-factorsProbabilities[2]: 0.6502732240437159, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 2.2 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 2.2
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 19.799999999999997 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.2999999999999994
+minTotalDistancesBetweenDeliveriesInDivision: 0.0 , maxTotalDistancesBetweenDeliveriesInDivision: 19.799999999999997
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 5.5
+avgOfTotalAvgDistancesInDivisions: 1.8333333333333333 , loadDistanceFactor: 19.799999999999997
+factorsProbabilities[2]: 0.6147859922178989, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #7 details:
-Fitness: 2.15
-  (division-courier-id: 1) Division #0:
-	Delivery #0:
-		isUrgent: 1
-		Latitude,Longitude: 32.07992542,34.77517877
-	Delivery #1:
-		isUrgent: 1
-		Latitude,Longitude: 32.08114372,34.77551156
-	Delivery #2:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-  (division-courier-id: 2) Division #1:
-	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
-  (division-courier-id: 3) Division #2:
+Fitness: 6.735029327161112
+  (division-courier-id: 2) Division #0:
 	Delivery #0:
 		isUrgent: 0
 		Latitude,Longitude: 32.08111378,34.77747419
+  (division-courier-id: 1) Division #1:
+	Delivery #0:
+		isUrgent: 1
+		Latitude,Longitude: 32.08114372,34.77551156
+	Delivery #1:
+		isUrgent: 0
+		Latitude,Longitude: 32.06984232,34.77052658
+  (division-courier-id: 3) Division #2:
+	Delivery #0:
+		isUrgent: 1
+		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
 		isUrgent: 0
 		Latitude,Longitude: 32.08286466,34.77471939
 	Delivery #2:
 		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
+		Latitude,Longitude: 32.08726741,34.78059533
 	Delivery #3:
 		isUrgent: 0
 		Latitude,Longitude: 32.0528274,34.75690968
-avgOfTotalAvgDistancesInDivisions = 2.1333333333333333
+avgOfTotalAvgDistancesInDivisions = 1.8333333333333333
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #8--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 5.6 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.8666666666666665
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 12.5 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 4.166666666666667
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 4.8 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 4.8
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 10.833333333333332
-avgOfTotalAvgDistancesInDivisions: 3.6111111111111107
-factorsProbabilities[2]: 0.40801457194899826, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 4.7 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 4.7
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 2.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 2.0
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 2.8 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 0.9333333333333332
+minTotalDistancesBetweenDeliveriesInDivision: 2.0 , maxTotalDistancesBetweenDeliveriesInDivision: 4.7
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 7.633333333333334
+avgOfTotalAvgDistancesInDivisions: 2.5444444444444447 , loadDistanceFactor: 2.7
+factorsProbabilities[2]: 0.9474708171206225, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #8 details:
-Fitness: 2.7
-  (division-courier-id: 1) Division #0:
+Fitness: 7.788210005356143
+  (division-courier-id: 2) Division #0:
 	Delivery #0:
 		isUrgent: 0
 		Latitude,Longitude: 32.08111378,34.77747419
 	Delivery #1:
 		isUrgent: 0
+		Latitude,Longitude: 32.0528274,34.75690968
+  (division-courier-id: 1) Division #1:
+	Delivery #0:
+		isUrgent: 0
 		Latitude,Longitude: 32.08286466,34.77471939
-	Delivery #2:
+	Delivery #1:
 		isUrgent: 0
 		Latitude,Longitude: 32.06984232,34.77052658
-  (division-courier-id: 2) Division #1:
+  (division-courier-id: 3) Division #2:
 	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
-		isUrgent: 0
-		Latitude,Longitude: 32.08726741,34.78059533
-	Delivery #2:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-  (division-courier-id: 3) Division #2:
-	Delivery #0:
 		isUrgent: 1
 		Latitude,Longitude: 32.08114372,34.77551156
-	Delivery #1:
+	Delivery #2:
 		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-avgOfTotalAvgDistancesInDivisions = 3.6111111111111107
+		Latitude,Longitude: 32.08726741,34.78059533
+avgOfTotalAvgDistancesInDivisions = 2.5444444444444447
 ##-------------------------------------------------------------------------------##
 --------------------------------Distribution #9--------------------------------
-division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
-division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 10.4 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.466666666666667
-division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 6.4 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 1.0666666666666667
-totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 4.533333333333333
-avgOfTotalAvgDistancesInDivisions: 1.511111111111111
-factorsProbabilities[2]: 0.7522768670309654, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
+division-courier-Id: 2 -> totalDistancesBetweenDeliveriesInDivision: 0.0 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = NaN
+division-courier-Id: 1 -> totalDistancesBetweenDeliveriesInDivision: 10.100000000000001 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 3.366666666666667
+division-courier-Id: 3 -> totalDistancesBetweenDeliveriesInDivision: 7.2 , (totalDistancesBetweenDeliveriesInDivision / numOfPairsOfDeliveriesInDivision) = 2.4
+minTotalDistancesBetweenDeliveriesInDivision: 0.0 , maxTotalDistancesBetweenDeliveriesInDivision: 10.100000000000001
+totalAvgsOfTotalDistancesBetweenDeliveriesInDivisions: 5.7666666666666675
+avgOfTotalAvgDistancesInDivisions: 1.9222222222222225 , loadDistanceFactor: 10.100000000000001
+factorsProbabilities[2]: 0.8035019455252919, maxDriveDistanceBetweenPairDeliveriesInRegion=6.1
 Distribution #9 details:
-Fitness: 2.15
-  (division-courier-id: 1) Division #0:
+Fitness: 7.528603676804863
+  (division-courier-id: 2) Division #0:
 	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.0528274,34.75690968
-  (division-courier-id: 2) Division #1:
+		isUrgent: 1
+		Latitude,Longitude: 32.08114372,34.77551156
+  (division-courier-id: 1) Division #1:
 	Delivery #0:
-		isUrgent: 0
-		Latitude,Longitude: 32.08111378,34.77747419
+		isUrgent: 1
+		Latitude,Longitude: 32.07992542,34.77517877
 	Delivery #1:
 		isUrgent: 0
-		Latitude,Longitude: 32.06984232,34.77052658
+		Latitude,Longitude: 32.08111378,34.77747419
 	Delivery #2:
 		isUrgent: 0
 		Latitude,Longitude: 32.0528274,34.75690968
   (division-courier-id: 3) Division #2:
 	Delivery #0:
-		isUrgent: 1
-		Latitude,Longitude: 32.07992542,34.77517877
-	Delivery #1:
-		isUrgent: 1
-		Latitude,Longitude: 32.08114372,34.77551156
-	Delivery #2:
 		isUrgent: 0
 		Latitude,Longitude: 32.08286466,34.77471939
-	Delivery #3:
+	Delivery #1:
+		isUrgent: 0
+		Latitude,Longitude: 32.06984232,34.77052658
+	Delivery #2:
 		isUrgent: 0
 		Latitude,Longitude: 32.08726741,34.78059533
-avgOfTotalAvgDistancesInDivisions = 1.511111111111111
+avgOfTotalAvgDistancesInDivisions = 1.9222222222222225
 ##-------------------------------------------------------------------------------##
+
